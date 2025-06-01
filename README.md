@@ -2,7 +2,7 @@
 
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas, focado em construir aplicações modernas com tecnologias web.<br />
-Atualmente estudo backend com PHP e MySQL, e frontend com Next.js.
+Atualmente estudo, além da faculdade, backend com PHP e MySQL, e frontend com Next.js.
 </p>
 
 ---
